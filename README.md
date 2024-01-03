@@ -31,6 +31,6 @@
 
 ### 📚 Side Projects
 
-- [Imagio (WIP)](https://github.com/megrxu/imagio): An image hosting manager.
+- [Imagio (Work in Progress)](https://github.com/megrxu/imagio): A manager for hosting images.
 - [EFB-WX Extractor](https://github.com/megrxu/efb-extract): Extracts relevant metadata from WeChat EFB databases.
-- [Chats (Not yet public)](https://github.com/megrxu/chats): A local chat history viewer.
+- [Chats (Not yet public)](https://github.com/megrxu/chats): A viewer for local chat history.
