@@ -1,6 +1,6 @@
 ### 🌟 About Me
 
-Mostly I am doing recreational programming here, sometimes I write codes to solve problems.
+I enjoy doing recreational programming or typesetting in my leisure time.
 
 ### 🛠 Building stuff with
 
