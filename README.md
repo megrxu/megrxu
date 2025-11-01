@@ -1,6 +1,8 @@
 ### 🌟 About Me
 
-I enjoy doing recreational programming or typesetting in my leisure time.
+I enjoy doing recreational programming or typesetting.
+
+> 梦想类似去当卡车司机！
 
 ### 🛠 Building stuff with
 
