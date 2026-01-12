@@ -2,8 +2,6 @@
 
 I enjoy doing recreational programming or typesetting.
 
-> 梦想类似去当卡车司机！
-
 ### 🛠 Building stuff with
 
 ![Languages and Frameworks](https://img.shields.io/badge/-Languages%2fFrameworks-000000?style=flat-square)
